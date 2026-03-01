@@ -22,7 +22,7 @@ pydantic-settings==2.6.1
 apscheduler==3.10.4
 
 # Token counting for prompt management (Phase 3)
-transformers==4.45.0
+transformers==4.53.0
 tokenizers==0.20.0
 tenacity==9.0.0
 
